@@ -1,0 +1,10 @@
+{
+  "domain": "infomentor",
+  "name": "Infomentor",
+  "version": "0.0.1",
+  "documentation": "https://github.com/anlu85/infomentor_homeassistant",
+  "requirements": ["requests", "beautifulsoup4"],
+  "dependencies": [],
+  "codeowners": ["@anlu85"],
+  "config_flow": true
+}

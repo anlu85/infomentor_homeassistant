@@ -1,0 +1,17 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "Infomentor Login",
+          "description": "Enter your Infomentor credentials"
+        }
+      },
+      "error": {
+        "cannot_connect": "Cannot connect",
+        "invalid_auth": "Invalid authentication"
+      },
+      "abort": {
+        "already_configured": "This account is already configured"
+      }
+    }
+  }

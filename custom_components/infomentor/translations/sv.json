@@ -1,0 +1,17 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "Infomentor-inloggning",
+          "description": "Ange dina inloggningsuppgifter för Infomentor"
+        }
+      },
+      "error": {
+        "cannot_connect": "Kan inte ansluta",
+        "invalid_auth": "Ogiltig autentisering"
+      },
+      "abort": {
+        "already_configured": "Detta konto är redan konfigurerat"
+      }
+    }
+  }

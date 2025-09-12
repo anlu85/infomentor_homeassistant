@@ -1,0 +1,8 @@
+{
+  "name": "Infomentor",
+  "domain": "infomentor",
+  "country": "se",
+  "homeassistant": "2023.0.0",
+  "codeowners": ["@anlu85"],
+  "version": "0.0.1"
+}
